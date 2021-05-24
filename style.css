@@ -1,0 +1,18 @@
+#main-head {
+    height: calc(100vh - 54px);
+    background-image: "https://i.pinimg.com/originals/49/50/01/49500107a788d7b1803257328761c9a3.jpg";
+    background-size: cover;
+}
+
+.page-section {
+    padding: 6rm 0;
+}
+
+.section-heading {
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.section-subheading {
+    margin-bottom: 4rem;
+}
